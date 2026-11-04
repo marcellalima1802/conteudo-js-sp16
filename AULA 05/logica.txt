@@ -1,0 +1,17 @@
+1 - Despertador toca
+2 - Acordo
+3 - Levanto da cama
+4 - Calço o chinelo
+5 - Pego uma muda de roupa 
+6 - Ando até ao banheiro
+7 - Tomo banho
+8 - Abro a bisnaga da pasta de dente
+9 - pego a escova de dente
+10 - Coloco a pasta na escova
+11 - fecho a pasta
+12 - escovo o dente
+13 - Abro o enxaguante bucal
+14 - Faço o bocejo com o enxaguante bucal
+15 - Abro a torneira
+16 - lavo a pia
+17 - fecho a torneira 
